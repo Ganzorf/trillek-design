@@ -26,7 +26,7 @@ http://creativecommons.org/licenses/by-sa/3.0/<br />
 
 ### 1.2  Credits
 
-Trillek is inspired by Notch's 0x10c.  (please fill out a bit of the history here)  Credits will be listed under each idea.
+Trillek is inspired by Notch's (creator of Minecraft) 0x10c, which recieved a huge following even before release. Sadly, Notch postponed development indefinitely, leaving the fans of his concepts and ideas to pick up the torch, Credits will be listed under each idea.
 
 
 ### 1.3  Sign Off
@@ -47,19 +47,19 @@ Trillek is inspired by Notch's 0x10c.  (please fill out a bit of the history her
 
 
 ####  1.5.2  Game Elements
-  (blank)
+  A major element of the game would be the fully programmable in-game computer, which would be designed after a 1980s PC like the Commodore 64. Players would use this computer to control their spaceship, which would be fully customizable, and transport the player(s) onboard across the open-world universe of Trillek.
 
 
 ####  1.5.3  Game Content
-  (blank)
+  Aside from these major defining elements of the game, players would also be able to perform many tasks with their ship, including, but not limited to: mining for minerals on planets, asteroids and comets, salvaging abandoned starships and space stations, battling NPCs and other players both inside and outside of the ship, trading goods, technology and computer programs/data, and forming factions and guilds.
 
 
 ####  1.5.4  Theme
-  Space?
+  Space and science-fiction.
 
 
 ####  1.5.5  Style
-  Pixelated?
+  Pixelated and/or polygonal and/or textureless.
 
 
 ####  1.5.6  Sequence
@@ -72,15 +72,15 @@ Trillek is inspired by Notch's 0x10c.  (please fill out a bit of the history her
 
 **View:**           (blank)
 
-**Platform:**       (blank)
+**Platform:**       PC (possibly Mac and Linux).
 
 **Game Sales:**     (blank)
 
 **Consumer Group:** (blank)
 
-**Payment:**        (blank)
+**Payment:**        The game, being open-source, would be free.
 
-**Estimated Price:**(blank)
+**Estimated Price:**See above.
 
 
 
@@ -91,11 +91,11 @@ Trillek is inspired by Notch's 0x10c.  (please fill out a bit of the history her
 
 
 ###  1.7  Game Play
-(blank)
+Flying and upgrading your spaceship all across the galaxy/universe, either by yourself or with a crew of friends or programmable robots. Fight, mine, discover, invent, and trade.
 
 
 ###  1.8  Key Features
-(blank)
+The in-game programmable 1980s computer, and the overall retro style to the technology in general, along with an open world free of rigid story limitations.
 
 
 
@@ -140,31 +140,33 @@ Trillek is inspired by Notch's 0x10c.  (please fill out a bit of the history her
 
 
 ####  2.6.4  HUD Display
-  (blank)
+  Minimal, unless wearing HUD helmet/suit?
 
 
 ###2.6.5 Player View 
   *(screenshot)*
 
-  (blank)
+  First-person.
 
 
 ###  2.7  Antagonists
-(blank)
+Other players and/or aliens?
 
 
 ###  2.8  Global Game Elements 
 *(boundaries, neutral objects, camera views, world scale)*
 
-(blank)
+Many, many procedurally-generated stars, planets, asteroids and comets could be explored, mined, and colonized.
 
 
 ###  2.9  Story (outline)
-(blank)
+Colony ships launch in an alternate version of the 1980s, and due to a computer glitch, some passengers stay in suspended animation for longer than expected.
 
 
 ###  2.10  Concept Art
-(blank)
+![Damaged ship](http://i.imgur.com/ayiQmi7.jpg)
+![Starships and asteroids](http://i.imgur.com/31iYLHl.png)
+![Mysterious ship](http://i.imgur.com/o5bo2qm.jpg?2)
 
 
 ###  2.11  Level Design 
